@@ -1,0 +1,145 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullName": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "phone": "+12345678901",
+        "password": "password123"
+      },
+      {
+        "id": 2,
+        "fullName": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "phone": "+12345678902",
+        "password": "password456"
+      },
+      {
+        "id": 3,
+        "fullName": "Carol White",
+        "email": "carol.white@example.com",
+        "phone": "+12345678903",
+        "password": "password789"
+      },
+      {
+        "id": 4,
+        "fullName": "David Brown",
+        "email": "david.brown@example.com",
+        "phone": "+12345678904",
+        "password": "password321"
+      },
+      {
+        "id": 5,
+        "fullName": "Eve Miller",
+        "email": "eve.miller@example.com",
+        "phone": "+12345678905",
+        "password": "password654"
+      },
+      {
+        "id": 6,
+        "fullName": "Frank Wilson",
+        "email": "frank.wilson@example.com",
+        "phone": "+12345678906",
+        "password": "password987"
+      },
+      {
+        "id": 7,
+        "fullName": "Grace Taylor",
+        "email": "grace.taylor@example.com",
+        "phone": "+12345678907",
+        "password": "password111"
+      },
+      {
+        "id": 8,
+        "fullName": "Henry Anderson",
+        "email": "henry.anderson@example.com",
+        "phone": "+12345678908",
+        "password": "password222"
+      },
+      {
+        "id": 9,
+        "fullName": "Isabel Clark",
+        "email": "isabel.clark@example.com",
+        "phone": "+12345678909",
+        "password": "password333"
+      },
+      {
+        "id": 10,
+        "fullName": "Jake Lewis",
+        "email": "jake.lewis@example.com",
+        "phone": "+12345678910",
+        "password": "password444"
+      },
+      {
+        "id": 11,
+        "fullName": "Karen Hall",
+        "email": "karen.hall@example.com",
+        "phone": "+12345678911",
+        "password": "password555"
+      },
+      {
+        "id": 12,
+        "fullName": "Liam Allen",
+        "email": "liam.allen@example.com",
+        "phone": "+12345678912",
+        "password": "password666"
+      },
+      {
+        "id": 13,
+        "fullName": "Mia Scott",
+        "email": "mia.scott@example.com",
+        "phone": "+12345678913",
+        "password": "password777"
+      },
+      {
+        "id": 14,
+        "fullName": "Nathan King",
+        "email": "nathan.king@example.com",
+        "phone": "+12345678914",
+        "password": "password888"
+      },
+      {
+        "id": 15,
+        "fullName": "Olivia Wright",
+        "email": "olivia.wright@example.com",
+        "phone": "+12345678915",
+        "password": "password999"
+      },
+      {
+        "id": 16,
+        "fullName": "Paul Martinez",
+        "email": "paul.martinez@example.com",
+        "phone": "+12345678916",
+        "password": "password1010"
+      },
+      {
+        "id": 17,
+        "fullName": "Quincy Baker",
+        "email": "quincy.baker@example.com",
+        "phone": "+12345678917",
+        "password": "password1111"
+      },
+      {
+        "id": 18,
+        "fullName": "Rachel Gonzalez",
+        "email": "rachel.gonzalez@example.com",
+        "phone": "+12345678918",
+        "password": "password1212"
+      },
+      {
+        "id": 19,
+        "fullName": "Sam Rivera",
+        "email": "sam.rivera@example.com",
+        "phone": "+12345678919",
+        "password": "password1313"
+      },
+      {
+        "id": 20,
+        "fullName": "Tina Walker",
+        "email": "tina.walker@example.com",
+        "phone": "+12345678920",
+        "password": "password1414"
+      }
+    ]
+  }
+  
